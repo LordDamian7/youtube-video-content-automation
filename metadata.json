@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Video Automation Orchestrator",
+  "description": "An autonomous AI agentic system dashboard to research trends, write scripts, plan layouts, generate media, and orchestrate automated YouTube video workflows with Human-in-the-Loop oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
